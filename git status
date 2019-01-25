@@ -1,0 +1,29 @@
+[33mcommit 4e2afd7362c01b6f9f80e4e10ea709871ea33ddd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: William Santos <william.santos88@gmail.com>
+Date:   Thu Jan 24 23:24:49 2019 -0200
+
+    Criação de camada Repository e Service para consultar Categoria
+
+[33mcommit 3b05bdb4194b363c2376b9a24049c7dee2618008[m
+Author: William Santos <william.santos88@gmail.com>
+Date:   Thu Jan 24 22:58:14 2019 -0200
+
+    Criação de banco de dados H2 e criação automática da base de dados
+
+[33mcommit 1e9e78ae9dc1890985cf46eb615fa4bf26ca1194[m
+Author: William Santos <william.santos88@gmail.com>
+Date:   Thu Jan 24 00:36:36 2019 -0200
+
+    Testando a primeira classe de domínio - Categoria
+
+[33mcommit 1c3ae18b00e0c3bdf7f9d0b58438b13074f54fa4[m
+Author: William Santos <william.santos88@gmail.com>
+Date:   Thu Jan 24 00:12:53 2019 -0200
+
+    Teste REST
+
+[33mcommit 5a845e78f423af321bcb674717224ba0adf27b21[m
+Author: William Santos <william.santos88@gmail.com>
+Date:   Wed Jan 23 23:15:26 2019 -0200
+
+    Projeto criado
